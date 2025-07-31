@@ -3,7 +3,7 @@ Power BI report analyzing student survey data, visualizing satisfaction levels, 
 # 🎓 Student Survey Project | Power BI
 
 ### 🏠 Home Page
-<img src="homepage.png" alt="Home Page" width="100%" />
+<img src="Student survey.png" alt="Home Page" width="100%" />
 
 ## 📊 Overview
 This Power BI project analyzes student survey data to gain insights into student satisfaction, preferences, and demographics. The report includes interactive dashboards that help visualize key trends and support better decision-making in educational environments.
